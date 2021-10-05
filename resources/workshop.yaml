@@ -10,7 +10,7 @@ spec:
   duration: 15m
   url: https://github.com/boskey/educates-learning
   content:
-    #image: quay.io/eduk8s/lab-markdown-sample:master
+    image: ghcr.io/boskey/educates-terminal
     files: github.com/boskey/educates-learning
   session:
     namespaces:
